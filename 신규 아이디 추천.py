@@ -28,3 +28,4 @@ def solution(new_id):
             answer += answer[len(answer) - 1]
 
     return answer
+

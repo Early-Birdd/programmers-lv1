@@ -24,3 +24,12 @@ def solution(lottos, win_nums):
     answer.append(min_rank)
 
     return answer
+
+#회고
+#append를 적용하지 않고 마음대로 인덱스 할당을 해버렸다.
+#answer[0] = max_rank
+#answer[1] = min_rank
+
+#더 발전된 방향
+#count = lottos.count(0)
+#if i in win_nums:
