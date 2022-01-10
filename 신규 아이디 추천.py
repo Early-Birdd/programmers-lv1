@@ -54,7 +54,7 @@ def solution(new_id):
 #.isdigit() : 문자열 속 숫자(0~9, 지수 등) 유무 여부
 #.isnumeric() : 문자열 속 숫자(숫자로 사용된 모든 문자) 유무 여부
 #.isalnum() : 문자열 속 알파벳 및 숫자 유무 여부
-#.replace(old, new) : old문자를new문자로 대체
+#.replace(old, new, 바꿀 횟수) : old문자를new문자로 대체
 #.startswith('a') : 문자열 시작이a 인가
 #.endswith('a') : 문자열 끝이a 인가
 #.strip() : 양쪽 공백 제거
