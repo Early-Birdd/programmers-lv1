@@ -9,3 +9,5 @@
 > [풀이](https://github.com/Early-Birdd/programmers-lv1/blob/master/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.py)
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
 > [풀이](https://github.com/Early-Birdd/programmers-lv1/blob/master/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.py)
+* [크레인 인형 뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061)
+> [풀이](https://github.com/Early-Birdd/programmers-lv1/blob/master/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.py)
