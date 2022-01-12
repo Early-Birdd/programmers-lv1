@@ -1,16 +1,16 @@
-# def solution(participant, completion):
-#     answer = ''
-#
-#     participant.sort()
-#     completion.sort()
-#
-#     for i in range(len(completion)):
-#         if participant[i] != completion[i]:
-#             return participant[i]
-#
-#     answer += participant.pop()
-#
-#     return answer
+def solution(participant, completion):
+    answer = ''
+
+    participant.sort()
+    completion.sort()
+
+    for i in range(len(completion)):
+        if participant[i] != completion[i]:
+            return participant[i]
+
+    answer += participant.pop()
+
+    return answer
 
 #회고
 #sort()는 따로 갱신하지 않는다.
